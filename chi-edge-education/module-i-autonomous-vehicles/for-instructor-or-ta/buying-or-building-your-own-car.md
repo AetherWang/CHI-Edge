@@ -32,7 +32,3 @@ _Note: a controller is not required for using Donkeycar, since that car can be c
 The Donkeycar docs support multiple types of controllers from Xbox, Dualshock, and more.&#x20;
 
 Here is the controller recommended by Donkeycar: [Logitech Xbox.](https://www.amazon.com/Logitech-940-000117-Gamepad-F710/dp/B0041RR0TW/ref=sr\_1\_1?keywords=Logitech+Wireless+Gamepad+f710\&qid=1552492996\&s=electronics\&sr=1-1)
-
-### **Completing the Project Without a Car**
-
-If funds are an issue then it is possible to complete this project without using a physical car. Doing the project this way will miss out on assembling a car, using Chi@Edge, using a Raspberry Pi, and all of the other physical setups for the project, but it will still include collecting training data, cleaning the data, and training a model. This can be done using Donkeycar's simulator. Go to the [Optional: Simulator Setup](optional-simulator-setup.md) page to learn more about using Donkeycar's simulated environment instead of a physical car.

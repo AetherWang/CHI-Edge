@@ -28,4 +28,14 @@ The autonomous cars project is a educational module that utilizes the open sourc
 -actuated a successful Machine Learning model with an autonomous car
 </code></pre>
 
-[Github Link: for forking and asset viewing purposes](https://github.com/Ephemeralda/CHI-Edge)
+[Github Link: for forking, asset viewing, and customization purposes](https://github.com/AetherWang/CHI-Edge)
+
+***
+
+**Materials and Services:**
+
+1. Scale car
+2. Controller for car
+3. Computer
+4. Access to Chameleon Cloud and CHI@Edge
+5.
