@@ -23,6 +23,10 @@ If you desire to build your own car from scratch, then by comparing the document
 
 There is an additional thing to buy not discussed in rolling your own car because it is not technically a part of the car: the controller.&#x20;
 
+**Controllers:**
+
+_Note: a controller is not required for using Donkeycar, since that car can be controlled using the keyboard, but it is preferred to make steering easier when collecting training data._
+
 The Donkeycar docs support multiple types of controllers from Xbox, Dualshock, and more.&#x20;
 
 Here is the controller recommended by Donkeycar: [Logitech Xbox.](https://www.amazon.com/Logitech-940-000117-Gamepad-F710/dp/B0041RR0TW/ref=sr\_1\_1?keywords=Logitech+Wireless+Gamepad+f710\&qid=1552492996\&s=electronics\&sr=1-1)

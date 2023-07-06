@@ -1,5 +1,7 @@
 ---
-description: Your device must be enrolled to Chi@Edge before it can be accessed.
+description: >-
+  Allows for Bring-You-Own-Device to Chi@Edge. Your device must be enrolled in
+  Chi@Edge before Donkeycar can be accessed.
 ---
 
 # Adding Pi and Leasing Chameleon Node
@@ -65,7 +67,7 @@ chi-edge device list
 
 5. Imaging Your Device
 
-After you download the image for raspberry pi 4 off of the docs, take note of where it is saved. You will need to replace \<image> in the following command with the path to the image file. You should also copy the device's uuid from the output of the previous command and replace \<uuid> with that. You must bake the image using the following command before you can flash it to the pi.
+Download this [raspberry pi4 image](https://api.balena-cloud.com/download?deviceType=raspberrypi4-64\&version=2.91.1\&fileType=.zip) to your computer. After you download the image for raspberry pi 4 off of the docs, take note of where it is saved. You will need to replace \<image> in the following command with the path to the image file. You should also copy the device's uuid from the output of the previous command and replace \<uuid> with that. You must bake the image using the following command before you can flash it to the pi.
 
 ```
 chi-edge device bake --image <image> <device_uuid>
@@ -73,7 +75,7 @@ chi-edge device bake --image <image> <device_uuid>
 
 6. Flashing the Image
 
-Place the SD card into your SD card reader. Open Blanea Etcher or your choice of SD card flashing software. You will need to select the image that you downloaded to be flashed onto the car. This image is the same one you downloaded from the docs in step 5.
+Place the SD card into your SD card reader. Open Blanea Etcher or your choice of SD card flashing software. You will need to select the image that you downloaded to be flashed onto the car. This image is the same one you downloaded in step 5.
 
 7. Wi-Fi Configuration
 

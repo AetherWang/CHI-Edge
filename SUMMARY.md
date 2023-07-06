@@ -24,3 +24,4 @@
       * [Possible extensions](chi-edge-education/module-i-autonomous-vehicles/assignment-extending-chi-edge-autonomous-cars/possible-extensions.md)
     * [FAQ](chi-edge-education/module-i-autonomous-vehicles/faq.md)
     * [References](chi-edge-education/module-i-autonomous-vehicles/references.md)
+* [TA Guide](ta-guide.md)
