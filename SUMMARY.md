@@ -6,6 +6,7 @@
       * [Software for the Project](chi-edge-education/module-i-autonomous-vehicles/background-information/software-for-the-project.md)
       * [Edge Devices](chi-edge-education/module-i-autonomous-vehicles/background-information/edge-devices.md)
       * [Machine Learning](chi-edge-education/module-i-autonomous-vehicles/background-information/machine-learning.md)
+      * [Chi@Edge](chi-edge-education/module-i-autonomous-vehicles/background-information/chi-edge.md)
     * [Buying or Building Your Own Car](chi-edge-education/module-i-autonomous-vehicles/buying-or-building-your-own-car.md)
     * [Car Assembly](chi-edge-education/module-i-autonomous-vehicles/car-assembly.md)
     * [Adding Pi and Leasing Chameleon Node](chi-edge-education/module-i-autonomous-vehicles/adding-pi-and-leasing-chameleon-node/README.md)
