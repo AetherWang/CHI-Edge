@@ -6,7 +6,9 @@ description: >-
 
 # Optional: Simulator Setup
 
-**OPTIONAL: Simulator Set-up and Configuration**
+This page is for those who wish to complete this project, but do not have access to a physical car and raspberry pi. Below, you will find the steps to set up the Donkeycar simulator on your own computer. After the simulator is set up and you are able to drive around the virtual environment and collect data, you can skip to [Collecting Data](collecting-data.md) to complete the rest of the project. From this point on, treat your own computer where you run the simulation as if it is the raspberry pi in the rest of the instructions. This means that if the instructions say to run a command on the Pi, run it on your own computer. You should still have access to a regular Chameleon instance if you want to train your model in a reasonable time. To reserve your Chameleon instance, go to [Reserving your Pi on Chi@Edge](adding-pi-and-leasing-chameleon-node/reserving-your-pi-on-chi-edge.md), click the link to the Trovi artifact, and only run the reserve\_baremetal script, not the one to reserve the Pi. Setting up the simulator is also needed for an extension of this project: reinforcement learning.
+
+**Simulator Set-up and Configuration**
 
 1. Create a directory in the root called projects
 
