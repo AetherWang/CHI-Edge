@@ -28,6 +28,7 @@
         * [(Optional) Simulator Setup](chi-edge-education/module-i-autonomous-vehicles/pathways/regular-pathway/optional-simulator-setup.md)
         * [(Optional) Assignment: Extending CHI@Edge Autonomous Cars](chi-edge-education/module-i-autonomous-vehicles/pathways/regular-pathway/optional-assignment-extending-chi-edge-autonomous-cars/README.md)
           * [Possible extensions](chi-edge-education/module-i-autonomous-vehicles/pathways/regular-pathway/optional-assignment-extending-chi-edge-autonomous-cars/possible-extensions.md)
+          * [Evaluation of Different Model Types](chi-edge-education/module-i-autonomous-vehicles/pathways/regular-pathway/optional-assignment-extending-chi-edge-autonomous-cars/evaluation-of-different-model-types.md)
       * [Classroom Pathway](chi-edge-education/module-i-autonomous-vehicles/pathways/classroom-pathway/README.md)
         * [(Optional) Background Information](chi-edge-education/module-i-autonomous-vehicles/pathways/classroom-pathway/optional-background-information/README.md)
           * [Software for the Project](chi-edge-education/module-i-autonomous-vehicles/pathways/classroom-pathway/optional-background-information/software-for-the-project.md)
