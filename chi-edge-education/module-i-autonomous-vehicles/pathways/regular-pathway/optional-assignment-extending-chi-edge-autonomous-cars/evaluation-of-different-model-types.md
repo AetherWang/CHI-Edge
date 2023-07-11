@@ -22,6 +22,12 @@ Use the following command to train a model of a certain type on your training no
 time donkey train --tub ./data --model ./models/<name>.h5 --type <type>
 ```
 
+example (trains a linear model):
+
+```
+time donkey train --tub ./data --model ./models/linear.h5 --type linear
+```
+
 2. Sync the model back to the car
 
 Just like in the procedure for the first part of this project, you will have to run the rsync command to move the model from the training node to the car. Run the following command on the car.
@@ -36,6 +42,12 @@ Running the model using the drive command is similar to how it is used in the fi
 
 ```
 python3 manage.py drive --model ~/car/models/<model_name> --type <model_type>
+```
+
+example:
+
+```
+python3 manage.py drive --model ~/car/models/linear.h5 --type linear
 ```
 
 4. Switch to Full Auto in web browser
