@@ -4,7 +4,7 @@ description: >-
   your Chameleon lease may end before you are done with the project.
 ---
 
-# Using Chameleon Object Store
+# (Optional) Using Chameleon Object Store
 
 **Chameleon Object Store Usage**
 
@@ -35,8 +35,8 @@ cd my_mounting_point
 cp -r <data_directory> <filepath_on_this_instance>
 ```
 
-_Note: now you can use previous data to train the data and leave it for other ML Students to use_
+_Note: now you can use previous data to train the data or leave it for other ML Students to use_
 
-\
-\
-\
+**Issues with Chameleon Object Store**
+
+If any issues arise, contact the [help desk](https://www.chameleoncloud.org/user/help/ticket/new/guest/). The Object Store can be finicky at times.
