@@ -67,7 +67,7 @@ chi-edge device list
 
 5. Imaging Your Device
 
-Download this [raspberry pi4 image](https://api.balena-cloud.com/download?deviceType=raspberrypi4-64\&version=2.91.1\&fileType=.zip) to your computer. After you download the image for raspberry pi 4 off of the docs, take note of where it is saved. You will need to replace \<image> in the following command with the path to the image file. You should also copy the device's uuid from the output of the previous command and replace \<uuid> with that. You must bake the image using the following command before you can flash it to the pi.
+Download this [raspberry pi4 image](https://api.balena-cloud.com/download?deviceType=raspberrypi4-64\&version=2.91.1\&fileType=.zip) to your computer. After you download and unzipped the image for raspberry pi 4 off of the docs, take note of where it is saved. You will need to replace \<image> in the following command with the path to the image file. You should also copy the device's uuid from the output of the previous command and replace \<uuid> with that. You must bake the image using the following command before you can flash it to the pi.
 
 ```
 chi-edge device bake --image <image> <device_uuid>
