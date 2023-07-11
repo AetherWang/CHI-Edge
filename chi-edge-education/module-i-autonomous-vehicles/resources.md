@@ -32,4 +32,22 @@ Car Demo
 
 {% embed url="https://youtu.be/RxjrYUtcL8Y" %}
 
+Car Assembly
+
+{% embed url="https://youtu.be/4dy79Fhez6Y" %}
+
+Data Collection
+
+{% embed url="https://youtu.be/TWmlcbvEVqI" %}
+
 Model Testing
+
+{% embed url="https://youtu.be/AEeyLPxaLr0" %}
+
+{% embed url="https://youtu.be/7nlGPmJXvZQ" %}
+
+{% embed url="https://youtu.be/h_gmoX9FG6I" %}
+
+{% embed url="https://youtu.be/tGAs38FN3eA" %}
+
+{% embed url="https://youtu.be/KesvfVx9ODw" %}
