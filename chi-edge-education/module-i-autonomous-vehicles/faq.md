@@ -45,7 +45,7 @@ In the meantime, the other axel within the same plane as the wheel that lost its
 
 If after running an ssh command to connect to either the pi or your training node you get an error message that says "no route to host", this is likely because you are trying to ssh to soon before the container has entirely started. To fix this, just wait a few minutes and try the command again.
 
-2. Scary message
+2. Remote Host Identification has Changed
 
 If, after trying to ssh to one of your devices, you get a warning message in all caps telling you it is unsafe to connect because the host has changed, you will need to run this command:
 

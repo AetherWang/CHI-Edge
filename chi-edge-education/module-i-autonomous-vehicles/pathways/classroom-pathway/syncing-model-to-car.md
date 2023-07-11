@@ -19,6 +19,6 @@ description: >-
 rsync cc@<Chameleon_Floating_Ip_Address>:~/mycar/my_config.py ~/car/my_config.py
 ```
 
-_Note: \~/mycar/models/\<model\_name: is a file path and if the naming of the directories are not within convention, it could lead to errors._&#x20;
+_Note: \~/mycar/models/\<model\_name>: is a file path and if the naming of the directories are not within convention, it could lead to errors._&#x20;
 
 \
