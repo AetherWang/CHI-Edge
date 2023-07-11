@@ -91,7 +91,7 @@ It is possible that when you log in to your training node again and try to run d
 source .venv/bin/activate
 ```
 
-If all else fails, you can always re-run all of the code from the third step in [Configuring Chameleon Node for Training](configuring-chameleon-node-for-training.md). Installing the dependencies should not take as long this time.
+If all else fails, you can always re-run all of the code from the third step in [Configuring Chameleon Node for Training](pathways/regular-pathway/configuring-chameleon-node-for-training.md). Installing the dependencies should not take as long this time.
 
 ### Chameleon Cloud Problems
 
@@ -99,7 +99,7 @@ Contact the [Chameleon Help Desk](https://www.chameleoncloud.org/user/help/ticke
 
 ### Donkeycar Problems
 
-If there are issues or extensions beyond what has been included, you can contact the [Donkeycar Discord.](syncing-data-from-pi-to-training-node.md)
+If there are issues or extensions beyond what has been included, you can contact the [Donkeycar Discord.](pathways/regular-pathway/syncing-data-from-pi-to-training-node.md)
 
 ####
 

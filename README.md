@@ -4,7 +4,7 @@ description: Rationale and Motivation for the creation of CHI@Edge Education
 
 # CHI@Edge Education
 
-
+> Built on top of the NSF-funded Chameleon testbed, we aim to provide free and accessible education for individuals of all backgrounds and skill-levels. We hope to inspire other NSF testbeds to create similar education initiatives, benefitting society by spreading knowledge and lowering barriers to entry.
 
 **CHI@Edge educational module** brings various topics on edge computing, IoT technologies, and applications driven by state-of-the-art artificial intelligence – bringing tools and ideas in today’s technology-driven world. **These modules convey accessibility to education with the goal to shorten the gap** in the contribution of research and to provide broad knowledge of technology as a tool that can enhance people’s lives.
 

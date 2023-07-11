@@ -23,7 +23,7 @@ python3 manage.py drive
 
 This should open a browser where you can view the output of the camera and drive with a joystick/gamepad
 
-3. To drive with the physical game controller, you will need to click on gamepad. Depending on the pwm value you set for forward throttle, you may need to set the maximum throttle percentage to less than 100% in order to control the car.
+3. To drive with the physical game controller, you will need to click on gamepad in the WebUI. The USB that came along with the controller in the Waveshare PiRacer Pro kit needs to be plugged into your computer that has the WebUI open. Depending on the pwm value you set for forward throttle, you may need to set the maximum throttle percentage to less than 100% in order to control the car.
 
 **Data Collection Tips**
 

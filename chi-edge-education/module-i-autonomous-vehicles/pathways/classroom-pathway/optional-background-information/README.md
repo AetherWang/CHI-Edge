@@ -2,7 +2,9 @@
 description: An overview of the project that you are about to undertake.
 ---
 
-# Background Information
+# (Optional) Background Information
+
+In the sub-pages of Background Information, there is an overview of the following topics.
 
 * Overview of Software Stack Utilized for this Project
 * General Understanding of What is an Edge Device

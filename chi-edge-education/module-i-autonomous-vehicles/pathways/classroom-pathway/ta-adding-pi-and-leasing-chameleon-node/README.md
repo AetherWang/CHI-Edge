@@ -4,7 +4,7 @@ description: >-
   Chi@Edge before Donkeycar can be accessed.
 ---
 
-# Adding Pi and Leasing Chameleon Node
+# (TA) Adding Pi and Leasing Chameleon Node
 
 **Requirements**
 

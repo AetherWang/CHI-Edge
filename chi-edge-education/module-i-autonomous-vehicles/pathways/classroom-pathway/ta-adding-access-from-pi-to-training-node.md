@@ -4,7 +4,7 @@ description: >-
   collect to the instance we are using for training.
 ---
 
-# Syncing Data from Pi to Training Node
+# (TA) Adding Access from Pi to Training Node
 
 _Note: commands from steps 1-3 are run inside the raspberry pi container, steps 4-5 are run on the baremetal instance used for training, and steps 6-10 are run back on the pi._
 
@@ -24,7 +24,7 @@ Press enter to whatever prompts come up so that the key is saved in the \~/.ssh 
 chmod 600 ~/.ssh/id_ed25519
 ```
 
-3. View the public key that was generated can copy the entire key.
+3. View the public key that was generated and copy the entire key.
 
 ```
 cat ~/.ssh/id_ed25519.pub
@@ -47,31 +47,6 @@ ssh cc@<ip address of training node>
 ```
 
 7. If the last step was successful, type "exit" to leave the ssh connection and return to the pi.
-8. If you have a lot of data, it may be time-efficient to compress the data into a zip file before syncing it.
-
-<pre><code><strong>cd ~/car/data
-</strong><strong>zip -r data.zip ~/car/data
-</strong></code></pre>
-
-9. Then sync them from the pi to the Chameleon Node:
-
-```
-rsync -r ~/car/data/data.zip cc@<Chameleon_Node_Floating_IP_Address>:~/mycar/data
-```
-
-_Note: may need to add key before syncing_
-
-```
-ssh-add <file path/name of private key>
-```
-
-10. Wait for the rsync command to finish (could take a few minutes), then, on the Chameleon node, unzip the data:
-
-```
-unzip data.zip -d ~/mycar/data
-```
-
-_Note: if the files are not found, it could be due to a wrong saving location and this requires the individual to find their zip file by browsing with UNIX Commands._
 
 \
 \

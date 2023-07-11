@@ -12,10 +12,10 @@ It is recommended to just buy the Waveshare car, but buying from other sellers a
 
 #### Links for Buying the Cars&#x20;
 
-1. [Waveshare](https://www.waveshare.com/piracer-ai-kit.htm)
-2. [Amazon (Waveshare)](https://www.amazon.com/Waveshare-PiRacer-AI-Autonomous-Accessories/dp/B083XDS4N3)
-3. [Exceed RC 1/10](https://www.nitrorcx.com/51c803-fireyellow-24ghz.html): $119.95
-   * On the left side bar, there are additional options if you want to search for a specific RC model or view different prices. However, be warned that many cars are often out of stock.&#x20;
+* [Waveshare](https://www.waveshare.com/piracer-ai-kit.htm): $161.99-234.99
+* [Amazon (Waveshare)](https://www.amazon.com/Waveshare-PiRacer-AI-Autonomous-Accessories/dp/B083XDS4N3): $199.99
+* [Exceed RC 1/10](https://www.nitrorcx.com/51c803-fireyellow-24ghz.html): $119.95
+  * On the left side bar, there are additional options if you want to search for a specific RC model or view different prices. However, be warned that many cars are often out of stock.&#x20;
 
 ### Rolling your Car (Building)
 
@@ -27,7 +27,7 @@ There is an additional thing to buy not discussed in rolling your own car becaus
 
 **Controllers:**
 
-_Note: a controller is not required for using Donkeycar, since that car can be controlled using the keyboard, but it is preferred to make steering easier when collecting training data._
+_Note: a controller is not required for using Donkeycar, since that car can be controlled using the keyboard, but it is preferred to make steering easier when collecting training data. Waveshare includes a controller, but other options that the user finds may not._
 
 The Donkeycar docs support multiple types of controllers from Xbox, Dualshock, and more.&#x20;
 
