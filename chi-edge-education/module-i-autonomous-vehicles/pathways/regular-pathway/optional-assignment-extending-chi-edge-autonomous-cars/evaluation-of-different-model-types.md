@@ -48,6 +48,44 @@ Observe the behavior of the car as it is running the model. Does it stay inside 
 
 **Results:**
 
+All 6 model types were trained using Donkeycar's default settings. Below is the time it took for training each type of model, as well as the generated graphs for each model. Donkeycar generates these graphs to show how each model reduces it's loss as more epochs are trained.
+
+Linear:
+
+Time: 8min 19s
+
+<figure><img src="../../../../../.gitbook/assets/linear.png" alt=""><figcaption></figcaption></figure>
+
+Categorical:
+
+Time: 10min 44s
+
+<figure><img src="../../../../../.gitbook/assets/categorical.png" alt=""><figcaption></figcaption></figure>
+
+RNN:
+
+Time: 16min 38s
+
+<figure><img src="../../../../../.gitbook/assets/rnn.png" alt=""><figcaption></figcaption></figure>
+
+3D:
+
+Time: 6min 32s
+
+<figure><img src="../../../../../.gitbook/assets/3d.png" alt=""><figcaption></figcaption></figure>
+
+Memory:
+
+Time: 5min 18s
+
+<figure><img src="../../../../../.gitbook/assets/memory.png" alt=""><figcaption></figcaption></figure>
+
+Inferred:
+
+Time: 7min 47s
+
+<figure><img src="../../../../../.gitbook/assets/inferred.png" alt=""><figcaption></figcaption></figure>
+
 Our first attempt at evaluating model effectiveness was to record how far the car made it along the track before failing. We defined "failing" as leaving the track entirely, which allows the car some breathing room for touching the edges of the track. The following table shows the best performance for each model using it's ideal speed. If a model was able to run 100% accurately at a slow enough speed, then "Doesn't Fail" was recorded.
 
 | Model Type  | Distance Before Failure |
