@@ -7,6 +7,12 @@ description: >-
 
 # Configuring Chameleon Node for Training
 
+**Node Setup in Trovi**
+
+If you ran all of the steps in reserve\_baremetal.ipynb in our [Trovi artifact](https://www.chameleoncloud.org/experiment/share/8800ebd1-411e-4e94-9b62-6883f09188e7), then your baremetal node should be good to go. You can access the node through an ssh tunnel to its Jupyter Notebook (explained in the linked Trovi artifact) or via a standard ssh connection through your terminal as explained below. If you did not use the script in Trovi and instead reserved your node using the Chameleon GUI, you should follow the steps below to make sure that your node is set up properly.
+
+**Node Setup in Terminal**
+
 1. Ssh into the Chameleon instance from your own computer. Run this command in your terminal. You can find the ip address on the Chameleon dashboard under Compute->Instances.
 
 ```
