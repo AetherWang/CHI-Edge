@@ -6,6 +6,8 @@ description: How to assemble the JetRacer Pro AI Kit
 
 ### Watch this Time-lapsed Video of a Student Assembling the Kit
 
+{% embed url="https://www.youtube.com/watch?v=4dy79Fhez6Y" %}
+
 _Note: these instructions are for assembling the car using a Jetson Nano, but the same steps can be followed if you are using a Raspberry Pi._
 
 
