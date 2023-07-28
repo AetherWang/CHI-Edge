@@ -8,6 +8,8 @@ description: >-
 
 This page is for those who wish to complete this project, but do not have access to a physical car and raspberry pi. Below, you will find the steps to set up the Donkeycar simulator on your own computer. After the simulator is set up and you are able to drive around the virtual environment and collect data, you can skip to [Collecting Data](../regular-pathway/collecting-data.md) to complete the rest of the project. From this point on, treat your own computer where you run the simulation as if it is the raspberry pi in the rest of the instructions. This means that if the instructions say to run a command on the Pi, run it on your own computer. You should still have access to a regular Chameleon instance if you want to train your model in a reasonable time. To reserve your Chameleon instance, go to [Reserving your Pi on Chi@Edge](../regular-pathway/adding-pi-and-leasing-chameleon-node/reserving-your-pi-on-chi-edge.md), click the link to the Trovi artifact, and only run the reserve\_baremetal script, not the one to reserve the Pi. Setting up the simulator is also needed for an extension of this project: reinforcement learning.
 
+_Warning: Make sure to have python 3.10 installed because 3.9 does not work._
+
 **Simulator Set-up and Configuration**
 
 1. Create a directory in the root called projects
@@ -106,11 +108,19 @@ Uncomment all three lines by deleting the # at the beginning of the lines
 Change the lines to read:
 
 ```
-DONKEY_GYM = False
+DONKEY_GYM = True
 DONKEY_SIM_PATH = <path_to_executeable>
 DONKEY_GYM_ENV_NAME = “donkey-generated-track-v0”
 ```
 
 Inside of the <> is the absolute file path for the executable set aside in Step 5
+
+
+
+Sample Data:
+
+Here is some sample data collected from multiple tracks within the simulator. This can optionally be used in place of your own data to speed up the project or make comparisons.
+
+{% file src="../../../../.gitbook/assets/data.zip" %}
 
 \
