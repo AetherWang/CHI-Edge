@@ -20,9 +20,9 @@ The third pathway, dubbed the **Digital Path**, allows the student to skip hardw
 
 **Next Steps:**
 
-Click this internal link: [**Pathways**](https://app.gitbook.com/o/9ZmykIyWVcR3SiBHUEH6/s/OqqSEReFLPNjJeHsoCRd/\~/changes/25/chi-edge-education/module-i-autonomous-vehicles/pathways) and go to the TA Guide for one-page of instructions. The guide is mainly geared towards the Classroom pathway, but is similar even if adapted to the other pathways.&#x20;
+On the Pathways page, you can view a TA Guide for one-page of instructions. The guide is mainly geared towards the Classroom pathway, but is similar even if adapted to the other pathways.&#x20;
 
-Inside of [**Pathways**](https://app.gitbook.com/o/9ZmykIyWVcR3SiBHUEH6/s/OqqSEReFLPNjJeHsoCRd/\~/changes/25/chi-edge-education/module-i-autonomous-vehicles/pathways) is where you will find the next steps for this project.
+Pathways is also where you will find the next steps for this project.
 
 If you are just looking for sample data or resources, they will be in the [**Resources**](resources.md) page. The instructions for utilizing sample data is essentially the same as without, just cutting out some early steps.
 
